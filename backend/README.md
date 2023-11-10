@@ -7,7 +7,7 @@ This project has been created to help people find the best job ever.
 Installation:
 
 - Clone the repository with:
-  `git clone https://github.com/Jobandtalent-Internship`\
+  `git clone https://github.com/Jobandtalent_Internship`\
 - Install dependecies with:
   `yarn install`
 - Start docker project with:
